@@ -1,7 +1,7 @@
 Deflategate: Who Cares? A social media analysis.
 ------
 
-Tweets with "deflategate" were collected over a span of 41 days in August and September 2015 and analyzed for content. The results of my study can be found here:
+I collected Tweets with "deflategate" continuously over a span of 41 days in August and September 2015 and analyzed them for content. Scripts used for each part of the study are posted, along with a link to the how-to. The results of my study can be found here:
 http://www.310analytics.com/#!Deflategate-Who-Cares-Patriots-Fans-and-Haters-Mostly/colb/562bb8120cf2f4d93f173695
 
 #####Twitter Mining
@@ -19,7 +19,7 @@ mycron.txt
 http://www.310analytics.com/#!Cron-Automation-at-its-Finest/colb/55fb19e10cf2a7bb74afc14e
 
 
-#####Tweet Volume
+#####Quantifying Engagement Over Time
 compile_by_day.py
 
 ######How-To:
